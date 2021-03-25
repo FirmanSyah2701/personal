@@ -1,0 +1,64 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+}
+#content{
+    margin-top: 15px;
+}
+#nav a {
+    margin-right: 20px;
+    color: #2c3e50;
+}
+
+#my-portfolio{
+    margin-top: 25px;
+}
+.bottom{
+    position: fixed;
+    bottom: 50px;
+    right: 60px;
+}
+
+.img-style{
+    margin-top: 20px;
+    width: 280px;
+    height: 400px;
+}
+
+#welcome{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    color:#000;
+}
+
+#header{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    color:#42b983;
+}
+.layout{
+    font-size: 18px;
+}
+.black{
+    color: #000;
+}
+.space{
+    margin-right: 10px;
+}
+.box {
+    width: 18rem;
+}
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color:#000;
+}
+.navbar-toggler>.close {
+    display:inline;
+}
+.navbar-toggler.collapsed>.close, .navbar-toggler:not(.collapsed)>.navbar-toggler-icon {
+    display:none;
+}
